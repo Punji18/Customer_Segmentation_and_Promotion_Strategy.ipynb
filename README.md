@@ -78,10 +78,10 @@ We used real-world-style customer data to:
 
 ## 📁 Files
 
-- `Customer_Segmentation_Model.ipynb` — Python code
-- `cleaned_customer_data.csv` — Preprocessed dataset
-- `README.md` — This file
-- `PowerBI_Dashboard.png` — *(Add if applicable)*
+-- [`Customer_Segmentation_Model.ipynb`](./Customer_Segmentation_Model.ipynb) — Python code
+- [`cleaned_customer_data.csv`](./cleaned_customer_data.csv) — Preprocessed dataset
+- [`PowerBI_Dashboard.png`](./PowerBI_Dashboard.png) — Dashboard screenshot
+
 
 ---
 
