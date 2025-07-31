@@ -85,4 +85,5 @@ We used real-world-style customer data to:
 
 
 
-Feel free to fork, star, or connect with me on [LinkedIn](#) if you want to collaborate or give feedback!
+Feel free to fork, star, or connect with me on [LinkedIn](www.linkedin.com/in/
+punji-chauhan-p31) if you want to collaborate or give feedback!
