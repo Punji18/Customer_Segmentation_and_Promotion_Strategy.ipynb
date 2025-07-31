@@ -44,7 +44,7 @@ We used real-world-style customer data to:
 - Visuals: Cluster distribution, Spend by Category, Age distribution
 - Insights: Ideal campaign per persona, high-value customer traits
 
-📎 *[Power BI Dashboard Preview](#)* *(Add screenshot or link if published)*
+📎 *[Power BI Dashboard Preview](#)* 
 
 ---
 
@@ -78,13 +78,11 @@ We used real-world-style customer data to:
 
 ## 📁 Files
 
--- [`Customer_Segmentation_Model.ipynb`](https://colab.research.google.com/drive/1I7ke5EJwPUFQgNDzhD0YtLYqwZtuz3ZD?usp=sharing) — Python code
+- [`Customer_Segmentation_Model.ipynb`](https://colab.research.google.com/drive/1I7ke5EJwPUFQgNDzhD0YtLYqwZtuz3ZD?usp=sharing) — Python code
 - [`cleaned_customer_data.csv`](cleaned_customer_data_with_clusters.csv) — Preprocessed dataset
-- [`PowerBI_Dashboard.pdf`](Power bi dashboard .pdf) — Dashboard screenshot
-
 
 ---
 
-## 🔗 Connect
+
 
 Feel free to fork, star, or connect with me on [LinkedIn](#) if you want to collaborate or give feedback!
