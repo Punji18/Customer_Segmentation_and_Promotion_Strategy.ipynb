@@ -80,7 +80,7 @@ We used real-world-style customer data to:
 
 -- [`Customer_Segmentation_Model.ipynb`](https://colab.research.google.com/drive/1I7ke5EJwPUFQgNDzhD0YtLYqwZtuz3ZD?usp=sharing) — Python code
 - [`cleaned_customer_data.csv`](cleaned_customer_data_with_clusters.csv) — Preprocessed dataset
-- [`PowerBI_Dashboard.png`](./PowerBI_Dashboard.png) — Dashboard screenshot
+- [`PowerBI_Dashboard.pdf`](./PowerBI_Dashboard.png) — Dashboard screenshot
 
 
 ---
